@@ -1,0 +1,20 @@
+[
+    {
+        "name":"Daniel",
+        "age": 25,
+        "country": "Great Britain",
+        "city": "London"
+    },
+    {
+        "name":"Mark",
+        "age": 23,
+        "country": "USA",
+        "city": "Washington"
+    },
+    {
+        "name":"Adam",
+        "age": 21,
+        "country": "USA",
+        "city": "New York"
+    }
+]

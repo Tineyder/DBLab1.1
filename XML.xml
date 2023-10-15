@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Database>
+
+    <Person>
+    
+           
+    
+           <name>Daniel</name>
+           <age>25</age>
+           <country>Great Britain</country>
+           <city>London</city>
+            <name>Mark</name>
+            <age>23</age>
+            <country>USA</country>
+            <city>Washington</city>
+            <name>Adam</name>
+            <age>21</age>
+            <country>USA</country>
+            <city>New York</city>
+    
+           
+    
+    </Person>
+    
+    </Database>
